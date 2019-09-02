@@ -1,4 +1,4 @@
-The solution for received test task made by Odinokov Alexey
+The solution for received test task from HFLabs made by Odinokov Alexey
 
 File QAHandler.CS contains main code of the solution.
 
